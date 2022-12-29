@@ -1,0 +1,2 @@
+#define BUFFERSIZE 65536
+#define MAXCLIENT 30
